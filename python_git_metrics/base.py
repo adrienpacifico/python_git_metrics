@@ -33,3 +33,4 @@ def base_function() -> str:
 
 def untested_function():
     return None
+
