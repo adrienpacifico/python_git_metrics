@@ -32,4 +32,4 @@ def base_function() -> str:
     return "hello from base function"
 
 def untested_function():
-    return Nonce
+    return None
