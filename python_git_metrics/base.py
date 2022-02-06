@@ -30,3 +30,6 @@ def base_function() -> str:
     Base function.
     """
     return "hello from base function"
+
+def untested_function():
+    return Nonce
